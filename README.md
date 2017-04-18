@@ -3,14 +3,15 @@
 Version 0.2.0 
 
 Team:
-
-Nolan Melander
-Brian Evans
-Amber Martinez
-
+<ul>
+<li>Nolan Melander</li>
+<li>Brian Evans</li>
+<li>Amber Martinez<li>
+</ul>
 Sponsors:
-
-Luke Powell
+<ul>
+<li>Luke Powell</li>
+</ul>
 Current Update (3/23/2017):
 Added New Map: Dungeon
 New Menus: Combat, Character Screens
