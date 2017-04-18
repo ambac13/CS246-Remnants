@@ -19,9 +19,9 @@ Known Bugs:
 Graphics issue on WorldMap causes towns to be surounded by Green blocks (Working on fix)
 
 Other Info:
-This project was done for CS246 at BYU-I. To be able to create this program in the time allocated we will start with the original code for Bludbourne. Some of the planned changes include new menus, a new party system, and battle UI.
+This project was done for <b>CS246</b> at <b>BYU-I</b>. To be able to create this program in the time allocated we will start with the original code for Bludbourne. Some of the planned changes include new menus, a new party system, and battle UI.
 
 More Info:
-This project was created using the libgdx library. Found here.
+This project was created using the libgdx library. Found here.https://libgdx.badlogicgames.com/
 Mastering LibGDX Game Development by Patrick Hoey was a big help in this. Find his book here.
 This project started with code from Bludbourne and several classes were changed, created and modified. The BludBourne code, in all of it's originality can be found on Patrick Hoey's GitHub here Bludbourne is open source as indicated on page 418 of Mastering LibGDX GameDevelopment.
