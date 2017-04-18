@@ -9,14 +9,13 @@ Team:
 <li>Amber Martinez</li>
 </ul>
 Sponsors:
-
 <ul>
 <li>Luke Powell</li>
 </ul>
 Current Update (3/23/2017):<br>
 Added New Map: Dungeon<br>
 New Menus: Combat, Character Screens<br>
-
+<br>
 Known Bugs:<br>
 Graphics issue on WorldMap causes towns to be surounded by Green blocks (Working on fix)
 
