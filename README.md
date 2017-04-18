@@ -6,7 +6,7 @@ Team:
 <ul>
 <li>Nolan Melander</li>
 <li>Brian Evans</li>
-<li>Amber Martinez<li>
+<li>Amber Martinez</li>
 </ul>
 Sponsors:
 <ul>
