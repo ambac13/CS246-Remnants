@@ -8,7 +8,8 @@ Team:
 <li>Brian Evans</li>
 <li>Amber Martinez</li>
 </ul>
-Sponsors:<br>
+Sponsors:
+
 <ul>
 <li>Luke Powell</li>
 </ul>
@@ -16,7 +17,7 @@ Current Update (3/23/2017):<br>
 Added New Map: Dungeon<br>
 New Menus: Combat, Character Screens<br>
 
-Known Bugs:
+Known Bugs:<br>
 Graphics issue on WorldMap causes towns to be surounded by Green blocks (Working on fix)
 
 Other Info:
