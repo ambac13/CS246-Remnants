@@ -20,7 +20,7 @@ Known Bugs:<br>
 Graphics issue on WorldMap causes towns to be surounded by Green blocks (Working on fix)
 
 Other Info:<br>
-This project was done for <b>CS246</b> at <b>BYU-I</b>. To be able to create this program in the time allocated we will start with the original code for Bludbourne. Some of the planned changes include new menus, a new party system, and battle UI.
+This project was done for <b>Software Design and Development</b> (CS246) at <b>Brigham Young University - Idaho</b>. To be able to create this program in the time allocated we will start with the original code for Bludbourne. Some of the planned changes include new menus, a new party system, and battle UI.
 
 More Info:<br>
 This project was created using the libgdx library. Found <a href="https://libgdx.badlogicgames.com/">here</a>.<br>
