@@ -1,4 +1,4 @@
-<h1>Remnants</h1>
+<h1>Remnants of the Kairus</h1>
 
 Version 0.2.0 
 
